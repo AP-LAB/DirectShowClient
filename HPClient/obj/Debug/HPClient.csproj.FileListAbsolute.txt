@@ -1,0 +1,29 @@
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\bin\Debug\HPClient.exe.config
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\bin\Debug\HPClient.exe
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\bin\Debug\HPClient.pdb
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\bin\Debug\DirectShowLib-2005.dll
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.csprojResolveAssemblyReference.cache
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\MainWindow.g.cs
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\App.g.cs
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient_MarkupCompile.cache
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient_MarkupCompile.lref
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\MainWindow.baml
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.g.resources
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.Properties.Resources.resources
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.csproj.GenerateResource.Cache
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.exe
+C:\Users\School\Documents\HBO\3\Periode 4\HP-Lab\Development\HPClient\HPClient\obj\Debug\HPClient.pdb
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\bin\Debug\HPClient.exe.config
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\bin\Debug\HPClient.exe
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\bin\Debug\HPClient.pdb
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.csprojResolveAssemblyReference.cache
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\MainWindow.g.cs
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\App.g.cs
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient_MarkupCompile.cache
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient_MarkupCompile.lref
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\MainWindow.baml
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.g.resources
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.Properties.Resources.resources
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.csproj.GenerateResource.Cache
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.exe
+C:\Users\Elize.TOSHIBA-Z\Source\Repos\DirectShowClient\HPClient\obj\Debug\HPClient.pdb
