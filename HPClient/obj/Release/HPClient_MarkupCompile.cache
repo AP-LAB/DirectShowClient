@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Elize\Documents\HBO\HP\DirectShowClient\HPClient\obj\Debug\
+C:\Users\Elize\Documents\HBO\HP\DirectShowClient\HPClient\obj\Release\
 HPClient
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Elize\Documents\HBO\HP\DirectShowClient\HPClient\App.xaml
 11151548125
 
 861016222
-16481542925
+15767094614
 MainWindow.xaml;
 
-False
+True
 

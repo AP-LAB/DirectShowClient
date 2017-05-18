@@ -21,6 +21,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using WebCamService;
 using System.Drawing.Imaging;
+using System.Windows.Media;
 
 namespace HPClient
 {
@@ -48,9 +49,12 @@ namespace HPClient
 
             IntPtr ip = cam.GetBitMap();
 
-            Bitmap image = new Bitmap(cam.Width, cam.Height, cam.Stride, PixelFormat.Format24bppRgb, ip);
+            Bitmap image = new Bitmap(cam.Width, cam.Height, cam.Stride, System.Drawing.Imaging.PixelFormat.Format24bppRgb, ip);
 
-            //TODO display image
+            //TODO display image in a normal way
+            Form1 Form = new Form1();
+            Form.pictureBox1.Image = image;
+            Form.Show();          
 
         }
     }

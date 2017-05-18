@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="264" Margin="52,27,0,0" VerticalAlignment="Top" Width="411"/>
     </Grid>
 </Window>
